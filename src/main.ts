@@ -18,7 +18,7 @@ function bootstrap() {
   console.log(3, fetch(3)); // 3 25
   console.log(5, fetch(5)); // 5 146
   console.log(6, fetch(6)); // 6 121
-  console.log(7, fetch(7)); // 7
+  console.log(7, fetch(7)); // 7 1937
 }
 
 function fetch(id: number): number | undefined {
